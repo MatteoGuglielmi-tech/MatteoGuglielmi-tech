@@ -53,7 +53,7 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 <a href="https://lua.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="c" height="40px" style="color:blue"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" 
   height="40px"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/tree/master/icons/nodejs/nodejs-original-wordmark" alt="nodejs" height="40px"/> </a> 
+<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40px"/> </a> 
 <a href="https://www.latex-project.org/#:~:text=LaTeX%20is%20a%20high%2Dquality,is%20available%20as%20free%20software./" target="_blank"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40px"/> </a> 
 <a href="https://markdownguide.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="40px"/> </a> 
