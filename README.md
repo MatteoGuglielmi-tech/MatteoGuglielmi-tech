@@ -12,7 +12,6 @@
   <img align="center" height="25px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
 <br/>
-<br/>
 
 #### :mag: About me :mag:
 :mortar_board: I have a bachelor's **degree in Information and Communications Engineering** at the [**University of Trento**](https://www.unitn.it/) concluded in September 2021. 
@@ -27,6 +26,7 @@
 
 :octocat: If I caught your attention and intrigued and you would take a look at some of my works, here's my [GitHub profile](https://github.com/MatteoGuglielmi-tech) (I just started to scratch the surface)
 
+<br/>
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=MatteoGuglielmi-tech&show_icons=true&theme=dark" height=180px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoGuglielmi-tech&layout=compact&theme=dark" height=180px>
@@ -43,6 +43,7 @@
 target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" height="40px"/> </a> 
 
 <br/>
+<br/>
 
 #### :robot: Programming languages
 <a href="https://cprogramming.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" height="40px" style="color:blue"/> </a> 
@@ -52,11 +53,12 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 <a href="https://lua.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="c" height="40px" style="color:blue"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" 
   height="40px"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/tree/master/icons/nodejs" alt="nodejs" height="40px"/> </a> 
+<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/tree/master/icons/nodejs/nodejs-original-wordmark" alt="nodejs" height="40px"/> </a> 
 <a href="https://www.latex-project.org/#:~:text=LaTeX%20is%20a%20high%2Dquality,is%20available%20as%20free%20software./" target="_blank"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40px"/> </a> 
 <a href="https://markdownguide.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="40px"/> </a> 
 
+<br/>
 <br/>
 
 #### Contributions
