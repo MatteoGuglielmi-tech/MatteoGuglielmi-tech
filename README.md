@@ -3,7 +3,7 @@
   <img align="center" alt="MatteoGuglielmi-tech's Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
  <a href="mailto:matteo.guglielmi.ma.gu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    <img align="center" alt="MatteoGuglielmi-tech's email address" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://support.apple.com/macos">
   <img align="center" height="25px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -11,8 +11,6 @@
 <a href="https://www.apple.com">
   <img align="center" height="25px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -35,16 +33,16 @@
 </div>
 
 <br/>
-<br/>
 
-#### :toolbox: Tools
+#### :wrench: Tools
 <a href="https://neovim.io/" target="_blank"> <img align="left" src="https://neovim.io/logos/neovim-mark-flat.png" alt="neovim" height="40px"/> </a> 
-<a href="https://vim.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" height="40px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="40px"/> </a> 
-<a href="https://anaconda.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anconda-original-wordmark.svg" alt="anaconda" height="40px"/> </a> 
+<a href="https://anaconda.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" height="40px"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="40px"/> </a> 
 <a href="https://https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?ef_id=CjwKCAiAxvGfBhB-EiwAMPakqrIRpfC087dIg8eAjcDdlF6enakJ4y3UqJrnuL6C2HABggJKFmJQORoCsWIQAvD_BwE%3AG%3As&OCID=AIDcmmy6frl1tq_SEM_CjwKCAiAxvGfBhB-EiwAMPakqrIRpfC087dIg8eAjcDdlF6enakJ4y3UqJrnuL6C2HABggJKFmJQORoCsWIQAvD_BwE%3AG%3As" 
 target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" height="40px"/> </a> 
+
+<br/>
 
 #### :robot: Programming languages
 <a href="https://cprogramming.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" height="40px" style="color:blue"/> </a> 
@@ -54,10 +52,12 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 <a href="https://lua.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="c" height="40px" style="color:blue"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" 
   height="40px"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-workmark.svg" alt="nodejs" height="40px"/> </a> 
+<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/tree/master/icons/nodejs" alt="nodejs" height="40px"/> </a> 
 <a href="https://www.latex-project.org/#:~:text=LaTeX%20is%20a%20high%2Dquality,is%20available%20as%20free%20software./" target="_blank"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40px"/> </a> 
 <a href="https://markdownguide.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="40px"/> </a> 
+
+<br/>
 
 #### Contributions
 ![Snake animation](https://github.com/MatteoGuglielmi-tech/MatteoGuglielmi-tech/blob/output/github-contribution-grid-snake.svg)
