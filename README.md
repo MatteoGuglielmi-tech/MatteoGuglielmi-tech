@@ -24,7 +24,7 @@
 
 :dart: The educational path I chose is focused on developing AI-based algorithms to solve Medical oriented problems using mainly Ultrasonography. In particular, everything evolves around choosing the right technology and critically evaluating and motivating the obtained results.
 
-:octocat: If I caught your attention and intrigued you, take a look at some of my works visiting my [GitHub profile](https://github.com/MatteoGuglielmi-tech) (I just started to scratch the surface)
+:octocat: If I caught your attention and intrigued you, take a look at some of my works visiting my [GitHub profile](https://github.com/MatteoGuglielmi-tech?tab=repositories) (I just started to scratch the surface)
 
 <br/>
 <div style="display: flex;">
