@@ -64,7 +64,11 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 
 #### :computer: Operating Systems
 <a href="https://archlinux.org/" target="_blank"> <img align="left" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch" height="40px"/> </a> 
-<a href="https://it.wikipedia.org/wiki/MacOS" target="_blank"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMacOS&psig=AOvVaw1luNgR05xJwqHzZZ-2IVYs&ust=1677677975647000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCgxfu6uP0CFQAAAAAdAAAAABAD" alt="bash" height="40px"/> </a> 
+<a href="https://it.wikipedia.org/wiki/MacOS" target="_blank"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMacOS&psig=AOvVaw1luNgR05xJwqHzZZ-2IVYs&ust=1677677975647000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCgxfu6uP0CFQAAAAAdAAAAABAD" alt="MacOS" height="40px"/> </a> 
+
+
+<br/>
+<br/>
 
 #### Contributions
 ![Snake animation](https://github.com/MatteoGuglielmi-tech/MatteoGuglielmi-tech/blob/output/github-contribution-grid-snake.svg)
