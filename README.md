@@ -51,12 +51,10 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40px"/> </a> 
 <a href="https://lua.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="c" height="40px" style="color:blue"/> </a> 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" 
 <a href="http://www.gnu.org/software/bash/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" height="40px"/> </a> 
-  height="40px"/> </a> 
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" height="40px"/> </a> 
 <a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40px"/> </a> 
-<a href="https://www.latex-project.org/#:~:text=LaTeX%20is%20a%20high%2Dquality,is%20available%20as%20free%20software./" target="_blank"> 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40px"/> </a> 
+<a href="https://www.latex-project.org/#:~:text=LaTeX%20is%20a%20high%2Dquality,is%20available%20as%20free%20software./" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="40px"/> </a> 
 <a href="https://markdownguide.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="40px"/> </a> 
 
 <br/>
@@ -64,8 +62,7 @@ target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/dev
 
 #### :computer: Operating Systems
 <a href="https://archlinux.org/" target="_blank"> <img align="left" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch" height="40px"/> </a> 
-<a href="https://it.wikipedia.org/wiki/MacOS" target="_blank"> <img align="left" src="https://static.wikia.nocookie.net/logopedia/images/2/21/MacOS_wordmark_%282017%29.svg/revision/latest?cb=20180926061551"
-alt="MacOS" height="40px"/> </a> 
+<a href="https://it.wikipedia.org/wiki/MacOS" target="_blank"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMacOS&psig=AOvVaw1luNgR05xJwqHzZZ-2IVYs&ust=1677677975647000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCgxfu6uP0CFQAAAAAdAAAAABAD" alt="MacOS" height="40px"/> </a> 
 
 
 <br/>
