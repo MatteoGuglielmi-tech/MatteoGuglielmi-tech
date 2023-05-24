@@ -26,13 +26,6 @@
 
 :octocat: If I caught your attention and intrigued you, take a look at some of my works visiting my [GitHub profile](https://github.com/MatteoGuglielmi-tech?tab=repositories) (I just started to scratch the surface)
 
-<br/>
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatteoGuglielmi-tech&show_icons=true&theme=dark" height=180px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoGuglielmi-tech&layout=compact&theme=dark" height=180px>
-</div>
-
-<br/>
 
 #### :wrench: Tools
 <a href="https://neovim.io/" target="_blank"> <img align="left" src="https://neovim.io/logos/neovim-mark-flat.png" alt="neovim" height="40px"/> </a> 
