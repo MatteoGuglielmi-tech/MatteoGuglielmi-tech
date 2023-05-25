@@ -1,4 +1,5 @@
 ### :fire: Hey world, I'm Matteo Guglielmi :fire:
+<div id="badges">
 <a href="https://github.com/MatteoGuglielmi-tech">
   <img align="center" alt="MatteoGuglielmi-tech's Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -11,7 +12,14 @@
 <a href="https://www.apple.com">
   <img align="center" height="25px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
+</div>
 <br/>
+<img src="https://komarev.com/ghpvc/?username=MatteoGuglielmi-tech&style=flat-square&color=blue" align="center" alt=""/>
+
+<h1>
+  Hello world!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 #### :mag: About me :mag:
 :mortar_board: I have a bachelor's **degree in Information and Communications Engineering** at the [**University of Trento**](https://www.unitn.it/) concluded in September 2021. 
@@ -28,7 +36,7 @@
 
 <br/>
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatteoGuglielmi-tech&show_icons=true&theme=dark" height=180px>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MatteoGuglielmi-tech&show_icons=true&theme=dark" height=180px> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoGuglielmi-tech&layout=compact&theme=dark" height=180px>
 </div>
 
