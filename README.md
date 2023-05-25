@@ -74,9 +74,9 @@ I'm a 24 years old from Italy :it: :
 #### :computer: Operating Systems
 
 <div id="SO">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple macOS" width="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Apple macOS" width="40px"/>
-  <a href="https://archlinux.org/" target="_blank"> <img align="left" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch" height="40px"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple macOS" width="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Apple macOS" width="40px"/> &nbsp;
+  <a href="https://archlinux.org/" target="_blank"> <img align="left" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch" height="40px"/> </a> &nbsp; 
 </div>
 
 </br>
