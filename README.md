@@ -54,18 +54,18 @@ I'm a 24 years old from Italy :it: :
 <div id="tools">
   <a href="https://neovim.io/" target="_blank"> <img align="left" src="https://neovim.io/logos/neovim-mark-flat.png" title="Neovim" height="40px"/> </a> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*title="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/azure/azure-original-wordmark.svg" title="Azure" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/c/c-original.svg" title="C" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original-wordmark.svg" title="Python" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" height="40px"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/bash/bash-original.svg" title="Bash" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/latex/latex-original.svg" title="LaTex" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/markdown/markdown-original.svg" title="Markdown" height="40px"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/matlab/matlab-original.svg" title="Matlab" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" height="40px"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" height="40px"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="40px"/>
 </div>
 
