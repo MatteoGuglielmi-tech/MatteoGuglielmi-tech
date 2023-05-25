@@ -1,4 +1,7 @@
-### :fire: Hey world, I'm Matteo Guglielmi :fire:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div id="badges">
 <a href="https://github.com/MatteoGuglielmi-tech">
   <img align="center" alt="MatteoGuglielmi-tech's Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=MatteoGuglielmi-tech&style=flat-square&color=blue" align="center" alt=""/>
 
 <h1>
-  Hello world!
+  :fire: Hey world, I'm Matteo Guglielmi :fire:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
