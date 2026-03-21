@@ -3,20 +3,18 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Matteo%20Guglielmi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=ML%20Engineer%20·%20Deep%20Learning%20·%20Applied%20AI&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 
-<!-- SOCIAL BADGES -->
-![Views](https://komarev.com/ghpvc/?username=MatteoGuglielmi-tech&style=flat&color=1f6feb&label=Profile+Views)
+<!-- <!-- SOCIAL BADGES --> -->
+<!-- ![Views](https://komarev.com/ghpvc/?username=MatteoGuglielmi-tech&style=flat&color=1f6feb&label=Profile+Views) -->
 
 </div>
 
-<br>
-
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║  "The best way to predict the future is to build it."        ║
- ╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
+<div align="center">
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to build it."       ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
+</div>
 
 ## `$ whoami`
 
