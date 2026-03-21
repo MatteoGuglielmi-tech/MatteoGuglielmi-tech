@@ -127,9 +127,7 @@ beyond_code:
 ---
 
 <div align="center">
-```
 🇮🇹 Italy  ·  🔬 Building AI that matters  ·  ⌨️ Half a keyboard per hand, full send
-```
 
 <sub>If something here caught your eye, the repos are just a click away → <a href="https://github.com/MatteoGuglielmi-tech?tab=repositories"><b>Explore</b></a></sub>
 
