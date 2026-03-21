@@ -101,29 +101,6 @@ beyond_code:
 
 <br>
 
-## `$ neofetch --stats`
-
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatteoGuglielmi-tech&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" width="49%" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoGuglielmi-tech&layout=compact&theme=github_dark&hide_border=true&border_radius=8&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" width="40%" />
-</a>
-</div>
-
-<br>
-
-## `$ git log --graph --oneline`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MatteoGuglielmi-tech/MatteoGuglielmi-tech/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MatteoGuglielmi-tech/MatteoGuglielmi-tech/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/MatteoGuglielmi-tech/MatteoGuglielmi-tech/blob/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br>
-
 ---
 
 <div align="center">
