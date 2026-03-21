@@ -16,7 +16,7 @@
 ## `$ whoami`
 
 🎓 **B.Sc.** in Information & Communications Engineering — [University of Trento](https://www.unitn.it/) \
-🎓 **M.Sc.** in Artificial Intelligence Systems — [University of Trento](https://www.unitn.it/)
+🎓 **M.Sc.** (cum laude) in Artificial Intelligence Systems — [University of Trento](https://www.unitn.it/)
 
 
 Whether it's computer vision, code security, NLP, or whatever domain lands on my desk next — I care about building production systems that **actually work**, not just ones that look good on a leaderboard. The right tool for the right job, rigorous evaluation, and clean engineering all the way down.
