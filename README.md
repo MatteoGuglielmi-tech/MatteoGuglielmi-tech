@@ -20,7 +20,7 @@
 
 ## `$ whoami`
 
-🎓 **B.Sc.** in Information & Communications Engineering — [University of Trento](https://www.unitn.it/)
+🎓 **B.Sc.** in Information & Communications Engineering — [University of Trento](https://www.unitn.it/) \
 🎓 **M.Sc.** in Artificial Intelligence Systems — [University of Trento](https://www.unitn.it/)
 
 
