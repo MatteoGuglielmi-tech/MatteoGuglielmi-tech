@@ -38,9 +38,9 @@ philosophy:
 
 beyond_code:
   - Obsessive dotfiles tinkerer
-  - Neovim evangelist ()
+  - Neovim evangelist
   - Arch Linux enthusiast (btw)
-  - Split keyboard apologist (btw)
+  - Split keyboard apologist
 ```
 
 <br>
