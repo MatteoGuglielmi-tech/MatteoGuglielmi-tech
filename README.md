@@ -86,7 +86,6 @@ beyond_code:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![lazygit](https://img.shields.io/badge/lazygit-4E9BCD?style=flat-square&logo=git&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
